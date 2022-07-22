@@ -20,6 +20,3 @@
 
 -How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
     understanding how graphics work and using C++ again was a good learning experience. Also I never understood before how much work goes into computational graphics.
-  
--How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-    graphics or game design is probably not in my future considering how much I struggled in this class.
